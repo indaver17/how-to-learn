@@ -283,7 +283,7 @@
   justify-content: center;
   background-color: #1f1f1f;
   min-height: 350px;
-  box-sizing:content-box
+  box-sizing:content-box;
   }
 
 .logo_place_footer {
