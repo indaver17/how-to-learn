@@ -2,3 +2,8 @@
   color: #2f80ed;
   text-decoration: none;
 }
+
+.header__link:hover {
+  color: blueviolet;
+  text-shadow: #2f80ed;
+}

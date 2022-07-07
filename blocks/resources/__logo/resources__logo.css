@@ -3,4 +3,10 @@
   width: 270px;
   display: flex;
   justify-content: center;
+  transition: background-color 0.5s;
+  }
+
+.resources__logo:hover {
+  box-shadow: -5px 5px 0 0 #2f80ed;
+  background-color: black;
   }

@@ -8,3 +8,8 @@
   text-decoration: none;
   color: #fff;
  }
+
+ .footer__column-link:hover {
+  color: blueviolet;
+  text-shadow: #2f80ed;
+}
